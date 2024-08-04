@@ -7,6 +7,8 @@ from game_config import (
     PLAYER_LIMIT_TOP,
 )
 
+
+
 PLAYER_VELOCITY = 5
 
 
